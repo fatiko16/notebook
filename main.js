@@ -10,6 +10,9 @@ let navBar = `<nav class="navbar navbar-expand-lg navbar-light bg-light">
         <li class="nav-item">
             <a class="nav-link active" aria-current="page" href="goals.html">Goals</a>
         </li>
+        <li class="nav-item">
+            <a class="nav-link active" aria-current="page" href="resources.html">Resources</a>
+        </li>
     </ul>
 </div>
 </nav>`;
